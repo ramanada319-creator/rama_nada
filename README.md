@@ -32,9 +32,9 @@ Currently, I am training on **React.js and React Native** and applying my skills
   <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
 </p>
 
-### ⚛️ Frontend / Mobile  
+### 🧰 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
