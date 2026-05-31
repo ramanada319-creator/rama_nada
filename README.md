@@ -10,7 +10,7 @@ Currently training on React 💙
 ---
 
 ## 👩‍💻 About Me  
-Hello! I'm **Rama Raed Nada**, a **Computer Engineering student** at *Al-Quds* 🎓  
+Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** from *Al-Quds Open University* 🎓  
 
 I’m a **Full Stack Developer Intern @ Reconess**, passionate about building **scalable, user-focused applications** and solving real-world problems through technology 🌍  
 
