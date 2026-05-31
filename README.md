@@ -1,6 +1,6 @@
 # 💫Rama Nada - Computer Information Systems | Information Security 
 
-## 👩‍💻 About Me  
+# 👩‍💻 About Me  
 Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** at *Al-Quds Open University*.   
 
 I am passionate about **Full Stack Development** and building real-world applications that solve practical problems.  
