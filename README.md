@@ -1,5 +1,5 @@
-# 💫Rama Nada - Computer Information Systems | Information Security 
-## 👩‍💻 About Me  
+## 💫Rama Nada - Computer Information Systems | Information Security 
+### 👩‍💻 About Me  
 Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** at *Al-Quds Open University*.   
 
 I am passionate about **Full Stack Development** and building real-world applications that solve practical problems.  
@@ -8,26 +8,26 @@ I enjoy working across frontend and backend development, including designing int
 
 Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects.   
 
----
-## ⚙️ Tech Stack  
 
-### 💻 Programming Languages  
+### ⚙️ Tech Stack  
+
+#### 💻 Programming Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,cs" />
 </p>
 
-### 🚀 Frameworks & Technologies  
+#### 🚀 Frameworks & Technologies  
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
 </p>
 
-### 🧰 Tools & Platforms  
+#### 🧰 Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
----
-## 🧠 Technical Focus  
+
+### 🧠 Technical Focus  
 
 - 🎯 **Frontend Development:**  
   React (Web Apps), React Native (Mobile Apps) Responsive UI  
@@ -41,26 +41,26 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - 🔗 **Full Stack Development:**  
   Building complete systems from UI → API → Database 
 
----
-## 🚀 Projects  
 
-### 🔹 Graduation Project (RSL – Interactive Learning Platform)  
+### 🚀 Projects  
+
+#### 🔹 Graduation Project (RSL – Interactive Learning Platform)  
 - Educational videos & PDF materials  
 - Student & teacher accounts  
 - Chatbot integration  
 - Interactive learning game (Tom & Jerry quiz-based game)  
 
-### 🔹 Exam System (C Language)  
+#### 🔹 Exam System (C Language)  
 - Console-based exam system  
 - Question management and scoring logic  
 
-### 🔹 Medical Record System (Training Project – University of An-Najah)  
+#### 🔹 Medical Record System (Training Project – University of An-Najah)  
 - Patient medical records system  
 - Built using React  
 - Includes frontend, backend, and database integration  
 
----
-## 💡 Professional Skills  
+
+### 💡 Professional Skills  
 
 - Problem Solving  
 - Teamwork  
@@ -68,12 +68,12 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - Continuous Learning  
 - Software Development Fundamentals  
 
----
-## 🧠 Motto  
+
+### 🧠 Motto  
 > “Learning by building is the best way to grow as a developer.” 💙  
 
----
-## 📫 Connect With Me  
+
+### 📫 Connect With Me  
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramanada319@gmail.com">
@@ -84,7 +84,6 @@ Currently, I am training on **React.js and React Native** and applying my skills
   </a>
 </p>
 
----
 
 <p align="center">
   Made with 💙 by <b>Rama Nada</b>
