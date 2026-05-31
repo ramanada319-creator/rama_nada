@@ -1,6 +1,6 @@
 # 💫Rama Nada - Computer Information Systems | Information Security 
-
-# 👩‍💻 About Me  
+---
+## 👩‍💻 About Me  
 Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** at *Al-Quds Open University*.   
 
 I am passionate about **Full Stack Development** and building real-world applications that solve practical problems.  
@@ -8,8 +8,7 @@ I am passionate about **Full Stack Development** and building real-world applica
 I enjoy working across frontend and backend development, including designing interfaces, developing APIs, and working with databases.  
 
 Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects.   
-
-
+---
 ## ⚙️ Tech Stack  
 
 ### 💻 Programming Languages  
