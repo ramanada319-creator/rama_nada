@@ -9,7 +9,6 @@ I enjoy working across frontend and backend development, including designing int
 
 Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects.   
 
----
 
 ## ⚙️ Tech Stack  
 
@@ -28,7 +27,6 @@ Currently, I am training on **React.js and React Native** and applying my skills
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
----
 
 ## 🧠 Technical Focus  
 
@@ -43,7 +41,6 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 - 🔗 **Full Stack Development:**  
   Building complete systems from UI → API → Database 
----
 
 ## 🚀 Projects  
 
@@ -62,7 +59,6 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - Built using React  
 - Includes frontend, backend, and database integration  
 
----
 
 ## 💡 Professional Skills  
 
@@ -72,12 +68,9 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - Continuous Learning  
 - Software Development Fundamentals  
 
----
 
 ## 🧠 Motto  
 > “Learning by building is the best way to grow as a developer.” 💙  
-
----
 
 ## 📫 Connect With Me  
 
