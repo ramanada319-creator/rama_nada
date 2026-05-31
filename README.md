@@ -4,19 +4,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;Computer+Information+Systems+Graduate;Full+Stack+Developer;React+Trainee;Building+Real+World+Projects)](https://git.io/typing-svg)
 
 <p align="center">
-Computer Information Systems graduate passionate about building practical and user-focused software solutions using modern technologies 💙
+Computer Information Systems graduate passionate about building practical and user-focused software solutions using modern technologies.
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
-Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** from *Al-Quds Open University* 🎓  
+Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** at *Al-Quds Open University*.   
 
-I am passionate about **Full Stack Development** and building real-world applications that solve practical problems 🌍  
+I am passionate about **Full Stack Development** and building real-world applications that solve practical problems.  
 
 I enjoy working across frontend and backend development, including designing interfaces, developing APIs, and working with databases.  
 
-Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects 💡  
+Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects.   
 
 ---
 
@@ -24,7 +24,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,c++,c#,html,css" />
 </p>
 
 ### 🚀 Backend & Databases  
