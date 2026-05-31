@@ -29,7 +29,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 ### 🚀 Frameworks & Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,mysql" />
 </p>
 
 ### 🧰 Tools & Platforms  
@@ -41,11 +41,17 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 ## 🧠 Technical Focus  
 
-- 🎯 **Frontend Development:** React.js, UI Design, Responsive Web Apps  
-- ⚙️ **Backend Development:** PHP, Node.js, REST APIs  
-- 🗄️ **Database Management:** MySQL, SQL  
-- 🔗 **Full Stack Development:** Building complete web applications  
+- 🎯 **Frontend Development:**  
+  Flutter (Mobile Apps), React (Web Apps), Responsive UI  
 
+- ⚙️ **Backend Development:**  
+  Node.js, php  
+
+- 🗄️ **Database Management:**  
+  MySQL  
+
+- 🔗 **Full Stack Development:**  
+  Building complete systems from UI → API → Database 
 ---
 
 ## 🚀 Projects  
