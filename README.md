@@ -70,7 +70,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 ---
 ### 🧠 Motto  
-> “Learning by building is the best way to grow as a developer.” 💙  
+> Learning by building is the best way to grow as a developer.   
 
 ---
 ### 📫 Connect With Me  
