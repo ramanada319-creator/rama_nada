@@ -1,7 +1,7 @@
 # 💫Rama Nada — Computer Information Systems | Information Security
 
 <!-- 🌸 ANIMATED HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;Full+Stack+Developer+Intern+%F0%9F%92%BB;Flutter+%7C+React+%7C+Node.js+%7C+Flask;Building+Impactful+Tech+Solutions+%F0%9F%8C%8D;Code+%2B+Creativity+%3D+My+Passion+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;)
 
 <p align="center">
    Passionate about building scalable applications, leading tech communities, and creating impactful digital solutions 💙
