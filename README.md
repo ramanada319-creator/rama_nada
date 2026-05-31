@@ -85,14 +85,11 @@ Currently, I am training on **React.js and React Native** and applying my skills
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ramanada319@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/your-github">
+  <a href="https://github.com/rama-nada">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
