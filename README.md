@@ -1,4 +1,4 @@
-# 💫 Rama Nada — Computer Information Systems | Information Security Graduate  
+# 💫 Rama Nada - Computer Information Systems | Information Security 
 
 <!-- 🌸 ANIMATED HEADER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;Computer+Information+Systems+Graduate;Full+Stack+Developer;React+Trainee;Building+Real+World+Projects)](https://git.io/typing-svg)
