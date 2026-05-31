@@ -1,24 +1,22 @@
-# 💫Rama Nada — Full Stack Developer | Computer Information Systems
+# 💫 Rama Nada — Computer Information Systems & Information Security Graduate  
 
 <!-- 🌸 ANIMATED HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=750&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;Computer+Information+Systems+Graduate;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0A66C2&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rama+Nada!;Computer+Information+Systems+Graduate;Full+Stack+Developer;React+Trainee;Building+Real+World+Projects)](https://git.io/typing-svg)
 
 <p align="center">
-Computer Information Systems graduate focused on full stack development and modern web technologies.  
-Currently training on React 💙
+Computer Information Systems graduate passionate about building practical and user-focused software solutions using modern technologies 💙
 </p>
+
 ---
 
 ## 👩‍💻 About Me  
 Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** from *Al-Quds Open University* 🎓  
 
-I’m a **Full Stack Developer Intern @ Reconess**, passionate about building **scalable, user-focused applications** and solving real-world problems through technology 🌍  
+I am passionate about **Full Stack Development** and building real-world applications that solve practical problems 🌍  
 
-I enjoy working across the full development cycle — from designing intuitive user interfaces to developing robust backend systems and APIs.  
+I enjoy working across frontend and backend development, including designing interfaces, developing APIs, and working with databases.  
 
-In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Hole Community**, where I lead initiatives focused on simplifying and translating scientific research into Arabic 💡  
-
-💬 Currently, I’m seeking **Full-Time / Remote Opportunities** in **Software Development (Full Stack / Backend / Mobile)**.
+Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects 💡  
 
 ---
 
@@ -26,116 +24,74 @@ In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Ho
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,cs,html,css" />
 </p>
 
-### 🚀 Frameworks & Technologies  
+### 🚀 Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,flask,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql" />
 </p>
 
-### 🧰 Tools & Platforms  
+### ⚛️ Frontend / Mobile  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
 
 ## 🧠 Technical Focus  
 
-- 🎯 **Frontend Development:**  
-  Flutter (Mobile Apps), React (Web Apps), Responsive UI, Clean Architecture  
-
-- ⚙️ **Backend Development:**  
-  Node.js, Python (Flask), REST APIs, Authentication Systems  
-
-- 🗄️ **Database Management:**  
-  MySQL, Firebase (Realtime DB & Firestore)  
-
-- 🔗 **Full Stack Development:**  
-  Building complete systems from UI → API → Database  
-
----
-
-## 🎯 Experience  
-
-### 🔹 Full Stack Developer Intern — Reconess  
-- Develop and maintain full-stack applications  
-- Integrate frontend interfaces with backend services  
-- Work with APIs, databases, and authentication systems  
-- Write clean, scalable, and maintainable code  
-- Collaborate within a development team environment  
-
-### 🔹 Trainee — Udacity  
-- Completed hands-on projects in **HTML & CSS**  
-- Applied best practices in UI design and clean code  
-- Received excellent feedback on project structure and implementation  
+- 🎯 **Frontend Development:** React.js, UI Design, Responsive Web Apps  
+- ⚙️ **Backend Development:** PHP, Node.js, REST APIs  
+- 🗄️ **Database Management:** MySQL, SQL  
+- 🔗 **Full Stack Development:** Building complete web applications  
 
 ---
 
 ## 🚀 Projects  
 
-### 🔹 Weallth Auth App (Flutter)  
-- Modern authentication system (Sign In / Sign Up)  
-- Smooth animations (Hero, AnimatedContainer)  
-- Clean UI with sporty design  
+### 🔹 Graduation Project (RSL – Interactive Learning Platform)  
+- Educational videos & PDF materials  
+- Student & teacher accounts  
+- Chatbot integration  
+- Interactive learning game (Tom & Jerry quiz-based game)  
 
-### 🔹 Library Management System  
-- Manage borrowing and on-site reading  
-- Organized data handling and user interaction  
+### 🔹 Exam System (C Language)  
+- Console-based exam system  
+- Question management and scoring logic  
 
-### 🔹 Gym Management System  
-- Membership management and fitness tracking  
-- Structured system for trainers and users  
-
-### 🔹 Startup Project (Founder & CEO)  
-- Mobile app for sell and buy **second hand item **  
-- Focus on usability, affordability, and real-market needs  
-
----
-
-## 🌱 Leadership & Volunteering  
-
-- 🧠 **President — IEEE Black Hole Community**  
-- 💼 **Volunteer — IEEE An-Najah Branch**  
-- 📸 **University Photographer — Student Affairs Department**  
-- 🎙️ Hosting a podcast simplifying scientific research for Arab youth  
-
----
-
-## 🏆 Achievements  
-
-- ⚡ Ranked **15th out of 200** — IEEE Problem Solving Competition  
-- 🌍 Participated in hackathons and technical competitions  
-- 🎓 Active learner and contributor in tech communities  
+### 🔹 Medical Record System (Training Project – University of An-Najah)  
+- Patient medical records system  
+- Built using React  
+- Includes frontend, backend, and database integration  
 
 ---
 
 ## 💡 Professional Skills  
 
-- Problem Solving & Critical Thinking  
-- Project Management  
-- Team Leadership & Collaboration  
-- Communication & Digital Marketing  
-- Adaptability & Continuous Learning  
+- Problem Solving  
+- Teamwork  
+- Time Management  
+- Continuous Learning  
+- Software Development Fundamentals  
 
 ---
 
 ## 🧠 Motto  
-> “Technology is not just about code — it’s about creating solutions that inspire and empower people.” 🌍💙  
+> “Learning by building is the best way to grow as a developer.” 💙  
 
 ---
 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/haneenhabash">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:haneenhabash08@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/haneen-habash-26b226282/?locale=en">
+  <a href="https://github.com/your-github">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -143,5 +99,5 @@ In addition, I’m a **Trainee at Udacity** and the **President of IEEE Black Ho
 ---
 
 <p align="center">
-  Made with 💙 by <b>Haneen Habash</b>
+  Made with 💙 by <b>Rama Nada</b>
 </p>
