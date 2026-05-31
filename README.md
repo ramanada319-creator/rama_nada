@@ -1,5 +1,4 @@
 # 💫Rama Nada - Computer Information Systems | Information Security 
----
 ## 👩‍💻 About Me  
 Hello! I'm **Rama Raed Nada**, a **Computer Information Systems graduate** at *Al-Quds Open University*.   
 
@@ -8,6 +7,7 @@ I am passionate about **Full Stack Development** and building real-world applica
 I enjoy working across frontend and backend development, including designing interfaces, developing APIs, and working with databases.  
 
 Currently, I am training on **React.js and React Native** and applying my skills in hands-on projects.   
+
 ---
 ## ⚙️ Tech Stack  
 
@@ -26,7 +26,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
-
+---
 ## 🧠 Technical Focus  
 
 - 🎯 **Frontend Development:**  
@@ -41,6 +41,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - 🔗 **Full Stack Development:**  
   Building complete systems from UI → API → Database 
 
+---
 ## 🚀 Projects  
 
 ### 🔹 Graduation Project (RSL – Interactive Learning Platform)  
@@ -58,7 +59,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - Built using React  
 - Includes frontend, backend, and database integration  
 
-
+---
 ## 💡 Professional Skills  
 
 - Problem Solving  
@@ -67,10 +68,11 @@ Currently, I am training on **React.js and React Native** and applying my skills
 - Continuous Learning  
 - Software Development Fundamentals  
 
-
+---
 ## 🧠 Motto  
 > “Learning by building is the best way to grow as a developer.” 💙  
 
+---
 ## 📫 Connect With Me  
 
 <p align="center">
