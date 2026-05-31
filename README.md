@@ -94,7 +94,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramanada319@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/rama_nada">
+  <a href="https://github.com/rama-nada">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
