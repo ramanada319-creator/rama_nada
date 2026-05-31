@@ -24,7 +24,7 @@ Currently, I am training on **React.js and React Native** and applying my skills
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,c++,c#,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,cs" />
 </p>
 
 ### 🚀 Backend & Databases  
