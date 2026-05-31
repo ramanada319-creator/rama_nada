@@ -83,8 +83,3 @@ My goal is not just writing code, but using it as a tool to transform ideas into
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
-
-<p align="center">
-  Made with 💙 by <b>Rama Nada</b>
-</p>
